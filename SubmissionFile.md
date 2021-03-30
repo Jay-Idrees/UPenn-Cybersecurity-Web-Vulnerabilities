@@ -24,18 +24,19 @@ Answer: the path. it is called the directory traversal attack
    
 3. Name three threat agents that can pose a risk to your organization.
 
-Answer:
+Answer: Person, group and government
 
 4. What kinds of sources can act as an attack vector for injection attacks?
 
-Answer:
+Answer: compromised username and password
 
 5. Injection attacks exploit which part of the CIA triad?
 
-Answer:
+Answer: Confidentiality
 
 6. Which two mitigation methods can be used to thwart injection attacks?
 
+Input sanitation and input validation
 ____
 
 #### Web Server Infrastructure
@@ -54,23 +55,23 @@ Use the graphic below to answer the following questions:
    
 1. What stage is the most inner part of the web architecture where data such as, customer names, addresses, account numbers, and credit card info, is stored?
 
-Answer:
+Answer: database
 
 2. Which stage includes online forms, word processors, shopping carts, video and photo editing, spreadsheets, file scanning, file conversion, and email programs such as Gmail, Yahoo and AOL.
 
-Answer:
+Answer: Web application
 
 3. What stage is the component that stores files (e.g. HTML documents, images, CSS stylesheets, and JavaScript files) that's connected to the Internet and provides support for physical data interactions between other devices connected to the web?
 
-Answer:
+Answer: Web server
 
 4. What stage is where the end user interacts with the World Wide Web through the use of a web browser?
 
-Answer:
+Answer: Client
 
 5. Which stage is designed to prevent unauthorized access to and from protected web server resources?
 
-Answer:
+Answer: Firewall
 
 ----
 
